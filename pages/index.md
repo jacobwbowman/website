@@ -3,4 +3,4 @@ title: Home
 layout: default
 ---
 
-{%  title=site.title lead="Using genomic tools to identify and conserve various life-history forms of bull trout" btn-text="About Me" btn-link="about.html" %}
+{% include jumbotron.html title=site.title lead="Using genomic tools to monitor and conserve various bull trout life histories" btn-text="About Me" btn-link="about.html" %}
