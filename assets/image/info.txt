@@ -1,1 +1,1 @@
-
+This images directory is where any images will be put to be used on the website.
