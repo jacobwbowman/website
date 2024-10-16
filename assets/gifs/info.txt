@@ -1,0 +1,1 @@
+This gifs directory is where any gifs will be put to be used on the website.
