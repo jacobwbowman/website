@@ -9,12 +9,12 @@
 #######
 # SITE SETTINGS
 #
-title: bootstrap-template
-description: "a basic bootstrap template for Jekyll with GitHub Pages"
-year: 2020
-author: evan will 
+title: Jacob Bowman
+description: "a rough draft of my personal website"
+year: 2024
+author: jacobwbowman 
 # add search box to navbar, true/false
-search: true
+search: false
 
 ##########
 # URL VARIABLES [optional!]
