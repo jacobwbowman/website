@@ -3,4 +3,4 @@ title: Home
 layout: default
 ---
 
-{% include jumbotron.html title=site.title lead="Create a site from a basic bootstrap template" btn-text="Learn More" btn-link="about.html" %}
+{%  title=site.title lead="Using genomic tools to identify and conserve various life-history forms of bull trout" btn-text="About Me" btn-link="about.html" %}
