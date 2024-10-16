@@ -16,3 +16,5 @@ In addition to bull trout research, I am interested passionate about the field o
 
 
 #### Link to my [CV](https://jacobwbowman.github.io/website/assets/downloads/currentCV.pdf). 
+
+![bull trout jumping over a beaver dam](https://jacobwbowman.github.io/website/assets/gifs/bulltroutjump.gif)
