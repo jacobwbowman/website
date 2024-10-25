@@ -10,9 +10,9 @@
 # SITE SETTINGS
 #
 title: Jacob Bowman
-description: "a rough draft of my personal website"
-year: 2024
-author: jacobwbowman 
+description:
+year:
+author:
 # add search box to navbar, true/false
 search: false
 
