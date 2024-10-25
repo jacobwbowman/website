@@ -3,6 +3,9 @@ title: Home
 layout: default
 ---
 
+## Welcome to my website!
 ![field work: posing for a photo with a migratory bull trout](https://jacobwbowman.github.io/website/assets/images/bulltroutselfie.JPG){:width="65%" style="display:block; margin-left:auto; margin-right:auto; float:left"}
 
-Some text
+<p style="text-align: right">
+ABOUT ME
+</p>
