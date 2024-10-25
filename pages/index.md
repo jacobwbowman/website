@@ -14,6 +14,6 @@ About Me
   I am a PhD student in the Department of Biological Sciences at the University of Idaho, co-advised by Dr. Jim Nagler and Dr. Paul Hohenlohe. My research focusses on isolated populations of bull trout in Idaho's sub-alpine lakes. Outside of the office and lab, I enjoy backpacking, watching movies, and spending time with my wife and two children. I am always looking to meet other scientists, learn more about current research in conservation genomics, and talk about my work, so please reach out if any of this interests you!
 </p>
 
-[![Github link](https://jacobwbowman.github.io/website/assets/images/github-logo.png){:width="5%"; style="display:block; align:left"}](https://github.com/jacobwbowman) [![Twitter link](https://jacobwbowman.github.io/website/assets/images/sl_z_072523_61700_01.jpg){:width="5%"; style="display:block; align:right"}](https://twitter.com/jbowman1018)
+[![Github link](https://jacobwbowman.github.io/website/assets/images/github-logo.png){:width="5%"; style="display:block; :.centered"}](https://github.com/jacobwbowman) [![Twitter link](https://jacobwbowman.github.io/website/assets/images/sl_z_072523_61700_01.jpg){:width="5%"; style="display:block; :.centered"}](https://twitter.com/jbowman1018)
 
 
