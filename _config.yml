@@ -10,9 +10,9 @@
 # SITE SETTINGS
 #
 title: Jacob Bowman
-description:
-year:
-author:
+description: "Professional academic website"
+year: 2024
+author: jacobwbowman
 # add search box to navbar, true/false
 search: false
 
