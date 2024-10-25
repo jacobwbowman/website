@@ -3,7 +3,7 @@ nav: Research
 nav_order: 1
 ---
 
-![bull trout jumping over a beaver dam](https://jacobwbowman.github.io/website/assets/gifs/bulltroutjump.gif){:width="40%" style="display:block; margin-right: 50px; margin-top: 50px; float:left"}
+![bull trout jumping over a beaver dam](https://jacobwbowman.github.io/website/assets/gifs/bulltroutjump.gif){:width="40%" style="display:block; margin-right: 50px; float:left"}
 
 <h1 style="margin-top: 50px">
 Lake-Resident Bull Trout
