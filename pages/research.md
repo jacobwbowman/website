@@ -17,6 +17,3 @@ Other Interests
 </h1>
 
 In addition to bull trout research, I am passionate about the field of conservation genetics as a whole. Particularly, I find genotype-environment association (GEA) and landscape genetics to be intriguing methods for understanding the adaptations of species to their surroundings, and I am interested in the use of these tools for predicting future impacts of climate change as well as possibly informing translocation efforts for conservation of imperilled species.
-
-
-#### Link to my [CV](https://jacobwbowman.github.io/website/assets/downloads/currentCV.pdf). 
