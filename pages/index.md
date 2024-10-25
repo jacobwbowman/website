@@ -16,4 +16,4 @@ About Me
 
 [![Github link](https://jacobwbowman.github.io/website/assets/images/github-logo.png){:width="5%"; style="display:block; float:right"}](https://github.com/jacobwbowman)
 
-[![Twitter link](https://jacobwbowman.github.io/website/assets/images/sl_z_072523_61700_01.jpg)](https://twitter.com/jbowman1018){:width="5%"; style="display:block; float:left"}
+[![Twitter link](https://jacobwbowman.github.io/website/assets/images/sl_z_072523_61700_01.jpg){:width="5%"; style="display:block; float:left"}](https://twitter.com/jbowman1018)
