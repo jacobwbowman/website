@@ -1,5 +1,4 @@
 ---
-title: Research
 nav: Research
 nav_order: 1
 ---
