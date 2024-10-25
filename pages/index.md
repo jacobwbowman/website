@@ -6,7 +6,7 @@ layout: default
 ![field work: posing for a photo with a migratory bull trout](https://jacobwbowman.github.io/website/assets/images/bulltroutselfie.JPG){:width="48%" style="display:block; margin-top: 50px; margin-left: 50px; margin-right: 50px; float:left"}
 
 
-<h1 style="margin-top: 50px; text-align: center">
+<h1 style="margin-top: 50px">
 About Me
 </h1>
 
