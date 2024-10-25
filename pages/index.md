@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-![field work: posing for a photo with a migratory bull trout](https://jacobwbowman.github.io/website/assets/images/bulltroutselfie.JPG){:width="40%" style="display:block; margin-right: 50px; float:left"}
+![field work: posing for a photo with a migratory bull trout](https://jacobwbowman.github.io/website/assets/images/bulltroutselfie.JPG){:width="50%" style="display:block; float:left"}
 
 
 <h1 style="margin-top: 50px">
